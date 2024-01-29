@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=Welcome&nbsp;to&nbsp;jinaiOS&nbsp;House&fontSize=70" />
+ <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=Welcome&nbsp;to&nbsp;jinaiOS&nbsp;House&fontSize=70" />
 
 
 <div align=center>
@@ -46,7 +46,7 @@
 
 <div align=center>
 
-![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jinaiOS)
+![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jingni1115)
 
 </div>
 
