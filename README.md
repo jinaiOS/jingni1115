@@ -21,6 +21,9 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white" />
 	<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
+	<img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white">
+	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
+	<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
 </div>
 <br>
 <div align=center>
