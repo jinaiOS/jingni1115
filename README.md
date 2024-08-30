@@ -43,6 +43,7 @@
 	<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iterm2&logoColor=white" />
+	<img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=sourcetree&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
